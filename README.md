@@ -110,7 +110,7 @@ When cloning this site for a new project page:
 
 ## Contact / Ownership
 
-**Chrispine Sibale** — Founder, RaFund · CEO, RafeTech  
+**Chrispine Rafe Sibale** — Founder, RaFund · CEO, RafeTech  
 📍 Blantyre, Malawi  
 📞 +265 981 167 823  
 🐙 [github.com/Raf3-Tech](https://github.com/Raf3-Tech)
